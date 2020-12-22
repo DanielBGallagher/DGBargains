@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "name": "Xbox",
+        "image": "./img/xbox.jpg",
+        "price": 299,
+        "quantity": 1,
+        "selected": false
+        },
+        {
+            "id": 2,
+            "name": "Playstation",
+            "image": "./img/playstation.jpeg",
+            "price": 299,
+            "quantity": 1,
+            "selected": false
+        },
+        {
+            "id": 3,
+            "name": "Air Pods",
+            "image": "./img/airpods.jpeg",
+            "price": 199,
+            "quantity": 1,
+            "selected": false
+        },
+        {
+            "id": 5,
+            "name": "MacBook Pro",
+            "image": "./img/macbook.jpeg",
+            "price": 899,
+            "quantity": 1,
+            "selected": false
+        }
+    ]
+}
